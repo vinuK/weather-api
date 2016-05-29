@@ -10,8 +10,8 @@
 
 ## Query Parameters:
 
-city: Name of the city to retrieve weather information for.
-country: Name of the country (optional) to retrieve weather information for.
+* city: Name of the city to retrieve weather information for.
+* country: Name of the country (optional) to retrieve weather information for.
 
 Console screen shot: !https://github.com/vinuK/weather-api/blob/master/weather-api.png
  
